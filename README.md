@@ -1,9 +1,26 @@
-- 👋 Hi, I’m Mohammad Abdolalizadeh
-- 👀 I’m interested in graphics and programming
-- 🌱 I’m currently learning AI
-- 📫 How to reach me? at m.abdolalizadeh@outlook.com
+# 👋 Hi there! I'm Mohammad 
 
-<!---
-mabdolalizadeh/mabdolalizadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 🌐 Web Enthusiast | 🎮 Tech Lover | Bounty hunter 🤩
+
+Welcome to my GitHub profile! I'm a passionate developer who loves building software that makes a difference. Whether it's a sleek web app, a powerful backend system, or an automation tool — I'm all about clean code, thoughtful design, and creative solutions.
+
+---
+
+### 🚀 About Me
+
+- 💼 I'm currently working on: Web Application, design and security 
+- 🌱 I'm learning: Bug Bounty
+- 💡 My interests: Full-stack development, Open Source, DevOps, Cybersecurity
+- 🎯 Goals: Build impactful tools, contribute to open-source, and keep learning
+
+---
+
+### 🛠 Tech Stack
+
+```yaml
+Languages:    Python, JavaScript (ES6+) HTML/CSS  
+Frameworks:   Django  
+DevOps:       Apache, GitHub Actions, Nginx  
+Databases:    MySQL, SQLite  
+Tools:        Git, VS Code, Burp suit, Pycharm
+```
