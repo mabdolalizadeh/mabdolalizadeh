@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mohammad!
 
-I'm a passionate **Full‑Stack Developer** focused on building clean, scalable, and efficient web applications.  
-I enjoy turning ideas into real, functional products using modern technologies.
+I'm a passionate **Full-Stack Developer** focused on building clean, scalable, and efficient web applications.
+I enjoy turning ideas into real, functional products using modern technologies. I'm currently studying **Computer Engineering at K. N. Toosi University of Technology**.
 
 ---
 
